@@ -1,0 +1,19 @@
+h1 {
+    text-align : center;
+    color:blueviolet;
+    text-decoration : brown wavy underline;
+}
+h2 {
+    color: darkblue;
+}
+butten{
+    color : black;
+    background-color: rgb(225, 255, 0);
+
+}
+div{
+    background-color:pink;
+}
+body{
+    background-color: rgb(0, 225, 255);
+}
